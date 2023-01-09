@@ -321,7 +321,7 @@ nav .fa-solid{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(/ShirotaT.github.io/personal-portfolio-img/images/phone-background1.png);
+        background-image: url(https://github.com/ShirotaT/ShirotaT.github.io/blob/main/personal-portfolio-img/images/phone-background1.png);
     }
     .header-text{
         margin-top: 100%;
