@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 76.18 18.64">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Bicubik, Bicubik;
+        font-size: 16.21px;
+        letter-spacing: .2em;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #f0edec;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(0 13.78)"><tspan x="0" y="0">JIBRIL</tspan></text>
+  <path class="cls-2" d="m33.71.56c0,.3-.45.54-1,.54h-8.53c-.55,0-1-.24-1-.54s.45-.54,1-.54h8.53c.55,0,1,.24,1,.54Z"/>
+</svg>
