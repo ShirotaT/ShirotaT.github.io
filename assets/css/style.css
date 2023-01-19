@@ -321,7 +321,7 @@ nav .fa-solid{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(assets/images/phone-background1.png);
+        background-image: url(/ShirotaT.github.io/assets/images/phone-background.png);
     }
     .header-text{
         margin-top: 100%;
@@ -335,7 +335,7 @@ nav .fa-solid{
         font-size: 25px;
     }
     nav ul{
-        background: #20A4F3;
+        background: #60935d;
         position: fixed;
         top: 0;
         right: -200px;
