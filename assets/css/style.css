@@ -284,10 +284,10 @@ nav ul li a:hover::after{
     color: #20A4F3;
     transform: translateY(-5px);
 }
-.btn.btn2{
+/* .btn.btn2{
     display: inline-block;
     background: #20A4F3;
-}
+} */
 .button {
     --width: 100px;
     --height: 35px;
